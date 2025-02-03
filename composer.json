@@ -1,5 +1,6 @@
 {
   "name": "ap-lib/singleton",
+  "description": "Implementation for a singleton pattern",
   "type": "library",
   "homepage": "https://github.com/ap-lib/singleton",
   "license": "MIT",

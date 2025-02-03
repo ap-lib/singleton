@@ -2,7 +2,7 @@
 
 [![MIT License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 
-Implementation for singleton pattern 
+Implementation for a singleton pattern 
 
 ## Installation
 
